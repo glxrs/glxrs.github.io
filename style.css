@@ -1,0 +1,17 @@
+body {
+    background-color: limegreen;
+}
+
+h1 {
+    color: mediumspringgreen;
+    margin-left: 20px;
+    font-family: impact;
+}
+h2 {
+  color: lawngreen;
+  font-family: impact;
+}
+p {
+  color: lightgreen;
+  font-family: impact;
+}
