@@ -1,1 +1,1 @@
-# glxrs.github.io
+http://fandoms.com
